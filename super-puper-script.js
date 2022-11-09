@@ -131,7 +131,7 @@ const methodOne = () => {
                 <div class = "choose-border-close"><div class="choose-close">&times;</div></div>
                 
                 <div class="buttonBack">
-                    <div class="imageBack"><img src="../Variant 1/img/Restore-PNG-HD.png" alt="" id="image1"></div>
+                    <div class="imageBack"><img src="Restore-PNG-HD.png" alt="" id="image1"></div>
                     <div class="textBack">НАЗАД</div>
                     <div class = "buttonBackAreaRelative"><div class ="buttonBackAreaAbsolute"></div></div>
                 </div>
@@ -189,7 +189,7 @@ const methodTwo = () => {
             <div class = "choose-border-close"><div class="choose-close">&times;</div></div>
             
             <div class="buttonBack">
-                <div class="imageBack"><img src="../Variant 1/img/Restore-PNG-HD.png" alt="" id="image1"></div>
+                <div class="imageBack"><img src="Restore-PNG-HD.png" alt="" id="image1"></div>
                 <div class="textBack">НАЗАД</div>
                 <div class = "buttonBackAreaRelative"><div class ="buttonBackAreaAbsolute"></div></div>
             </div>
