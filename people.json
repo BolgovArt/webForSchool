@@ -1,0 +1,34 @@
+{
+    "people": {
+    "person_1":{
+        "firstName": "Artyom",
+        "lastName": "Bolgov",
+        "courses":"Physic",
+        "mark": "5"
+    },
+    "person_2":{
+        "firstName": "Ivan",
+        "lastName": "Ivanov",
+        "courses":"Chemistry",
+        "mark": "4"
+    },
+    "person_3":{
+        "firstName": "Vlad",
+        "lastName": "Zakalin",
+        "courses":"Geography",
+        "mark": "3"
+    },
+    "person_4":{
+        "firstName": "Maksim",
+        "lastName": "Obramov",
+        "courses":"Physic",
+        "mark": "5"
+    },
+    "person_5":{
+        "firstName": "Alexander",
+        "lastName": "Morozov",
+        "courses":"Math",
+        "mark": "1"
+    }    
+}
+}
